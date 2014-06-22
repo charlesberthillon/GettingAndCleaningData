@@ -14,7 +14,7 @@
 
 ###2.2 Extracts only the measurements on the mean and standard deviation for each measurement.
 - Object to use: read.table (), names(),grep(), features(), gsub() and tolower()  
-###2.3 Uses descriptive activity names to name the activities in the data set
+### 2.3 Uses descriptive activity names to name the activities in the data set
 - Object to use: read.table() adn names()
 
 ##3.run_analysis.R: generating "TidyData.txt" 
