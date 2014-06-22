@@ -3,7 +3,6 @@
 
 # Objective of the codebook:
 - Description of  the output files from "run_analysis.R": "TidyData.txt" and  "TidyDataWithAverages.txt" 
-- Description the variables, the data, and work that performed to clean up the data
 
 ##1. Raw data source:
 - Data collected from the accelerometers from the Samsung Galaxy S smartphone:
